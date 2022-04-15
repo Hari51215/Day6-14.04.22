@@ -64,7 +64,7 @@ class student
             cout<<"Total Marks scored by the Student in "<<student_subject<<" Subjects : "<<total_mark<<endl;
             cout<<"Average Mark of the Student : "<<average_mark<<endl;
             cout<<"Student Grade : "<<grade<<endl;
-            cout<<""<<endl;
+            cout<<"A-Excellent\tB-Very Good\t<<C-Good\tD-Satisfied\tE-Need Improvement\tF-Fail"<<endl;
         }     
 };
 
